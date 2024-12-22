@@ -1,0 +1,29 @@
+{
+  "name": "@cs/eslint-standard-rules",
+  "version": "1.0.0",
+  "description": "ESLint JavaScript standard configuration",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {},
+  "files": [
+    "src"
+  ],
+  "publishConfig": {
+    "registry": "http://localhost:4873"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/si9urd/-cs.git",
+    "directory": "packages/js"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "standard",
+    "standard style"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": "^18.18.0 || ^20.9.0 || >=21.1.0"
+  }
+}
