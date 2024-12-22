@@ -11,7 +11,7 @@ Example `eslint.config.mjs`:
 ```js
 import standard from '@cs/eslint-standard-rules'
 
-module.exports = [
+export default [
   standard
 ] 
 ```
