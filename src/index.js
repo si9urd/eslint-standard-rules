@@ -2,7 +2,6 @@ export default Object.freeze({
   rules: Object.freeze({
     'no-var': 'warn',
     'object-shorthand': ['warn', 'properties'],
-
     'accessor-pairs': ['error', { setWithoutGet: true, enforceForClassMembers: true }],
     'array-bracket-spacing': ['error', 'never'],
     'array-callback-return': ['error', {
