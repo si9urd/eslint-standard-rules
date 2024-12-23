@@ -1,6 +1,6 @@
 {
-  "name": "@cs/eslint-standard-rules",
-  "version": "1.0.0",
+  "name": "@oleh-ob/eslint-standard-rules",
+  "version": "1.0.1",
   "description": "ESLint JavaScript standard configuration",
   "main": "./src/index.js",
   "type": "module",
@@ -8,9 +8,6 @@
   "files": [
     "src"
   ],
-  "publishConfig": {
-    "registry": "http://localhost:4873"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/si9urd/eslint-standard-rules.git",

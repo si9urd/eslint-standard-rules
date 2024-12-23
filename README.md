@@ -3,13 +3,13 @@
 ## Usage
 
 ```bash
-npm install --save-dev eslint @cs/eslint-standard-rules
+npm install --save-dev eslint @oleh-ob/eslint-standard-rules
 ```
 
 
 Example `eslint.config.mjs`:
 ```js
-import standard from '@cs/eslint-standard-rules'
+import standard from '@oleh-ob/eslint-standard-rules'
 
 export default [
   standard
