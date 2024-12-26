@@ -1,6 +1,6 @@
 {
   "name": "@oleh-ob/eslint-standard-rules",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint JavaScript standard configuration",
   "main": "./src/index.js",
   "type": "module",
